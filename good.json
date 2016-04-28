@@ -1,0 +1,88 @@
+{
+    "Goods":{
+        "clothes":[
+            {
+"type" : "1",
+"name":"skirts",
+"color":""green","blue","pink"",
+"size":"38-42",
+"price":"100nis-200nis"
+},
+            {
+"type" : "2",
+"name":"trousers",
+"color":""green","blue","black"",
+"size":"38-48",
+"price":"50nis-150nis"
+},            {
+"type" : "3",
+"name":"dresses",
+"color":""green","blue","pink","white"",
+"size":"38-42",
+"price":"100nis-500nis"
+},            {
+"type" : "4",
+"name":"T-shirts",
+"color":""green","blue","pink","yellow"",
+"size":"38-42",
+"price":"20nis-70nis"
+},
+ {
+"type" : "5",
+"name":"jackets",
+"color":""green","blue","pink","yellow"",
+"size":"38-42",
+"price":"50nis-300nis"
+}
+
+      ],
+"shoes":[
+ {
+"type" : "1",
+"name":"sportboots",
+"color":""green","blue","pink","yellow"",
+"size":"35-44",
+"price":"100nis-500nis"
+},
+ {
+"type" : "2",
+"name":"rainboots",
+"color":""green","blue","yellow"",
+"size":"35-42",
+"price":"100nis-500nis"
+},
+ {
+"type" : "3",
+"name":"sandals",
+"color":""green","blue","pink","yellow","red"",
+"size":"35-42",
+"price":"100nis-300nis"
+}
+],
+"Jewelery":[
+{
+"type" : "1",
+"name":"rings",
+"color":""gold","silver"",
+"size":"4.5-10",
+"price":"200nis-500nis"
+},
+{
+"type" : "2",
+"name":"Necklace",
+"color":""green","blue","pink","yellow","red","silver","gold"",
+"length":""short","medium","long"",
+"price":"500nis-1000nis"
+},
+{
+"type" : "3",
+"name":"Bracelet",
+"color":""green","blue","pink","yellow","red","silver","gold"",
+"size":"4.5-10",
+"price":"500nis-1000nis"
+
+}
+]
+
+}
+}
