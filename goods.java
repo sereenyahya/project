@@ -9,11 +9,12 @@
  * @author DELL
  */
 public class goods  {
-   private int type;
+private int type;
 private String name;
 private String color;
 private int size;
 private double price;
+private int quantity;
 
     public int getType() {
         return type;
